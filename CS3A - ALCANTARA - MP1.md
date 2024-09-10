@@ -5,6 +5,10 @@
 - The term artificial intelligence (AI) refers to a range of tools and approaches that are used to try to make machines capability of doing activities that normally require human intelligence.
 
   
+
+https://github.com/user-attachments/assets/c667ebc2-e4d2-4ce8-bcc6-e59d6f1f05f7
+
+
 - *Basic Concepts of AI*
 
 1. *.Data Input* -  AI systems gather data from various sources, including sensors, databases, and user interactions.
