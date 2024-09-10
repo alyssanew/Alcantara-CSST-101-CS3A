@@ -1,9 +1,14 @@
 #  ARTIFICIAL INTELLIGENCE
 
+<video width="320" height="240" controls>
+  <source src=""C:\Users\Admin\Downloads\CS3A- CSST 101 - MP1.mp4"" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 
 - The term artificial intelligence (AI) refers to a range of tools and approaches that are used to try to make machines capability of doing activities that normally require human intelligence.
 
+  
 - *Basic Concepts of AI*
 
 1. *.Data Input* -  AI systems gather data from various sources, including sensors, databases, and user interactions.
